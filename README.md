@@ -1,7 +1,3 @@
-Of course. Here is a comprehensive `README.md` file based on our entire discussion. It's written in Markdown, so you can copy and paste it directly into a `README.md` file in your GitHub repository.
-
----
-
 # Facebook Group Member Scraper
 
 This is a powerful and resilient browser script designed to scrape member data from Facebook groups. Its primary feature is its robustness: **progress is never lost**, even if your browser crashes or you close the tab. It is designed specifically to handle very large groups (10k, 30k, 50k+ members) by using intelligent scrolling and a persistent database built into your browser.
